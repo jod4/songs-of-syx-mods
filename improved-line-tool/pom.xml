@@ -16,7 +16,7 @@
     <properties>
         <mod.name>Improved Line Tool</mod.name>
         <mod.description>Lets the line tool draw lines in any angle. Hold left ctrl for the vanilla 45/90 degree line.</mod.description>
-        <mod.info>Uses Bresenham line drawing for the line tool in all build menus.</mod.info>
+        <mod.info>Uses Bresenham line drawing for the line tool in all build menus, in the settlement as well as on the world map (including the world map editor and generator).</mod.info>
     </properties>
 
     <dependencies>
