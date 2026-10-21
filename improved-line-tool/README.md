@@ -1,6 +1,6 @@
 # Improved Line Tool
 
-![Vanilla line tool vs. Improved Line Tool](workshop/improved-line-tool-drake-meme-templage.png)
+![Vanilla line tool vs. Improved Line Tool](workshop/improved-line-tool-drake-meme-template.png)
 
 The line tool in the build menus (roads, walls, floors, ...) only draws lines in 45° and 90° angles.
 This mod lets it draw straight lines in any angle, using [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm).
