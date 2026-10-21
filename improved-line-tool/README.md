@@ -15,7 +15,7 @@ Game version: V71
 ## How it works
 
 The line tool is part of the games multi tile placement tool (`view.tool.PlacableMultiTool`).
-`ImprovedLineMultiTool` wraps it and is swapped into the `ToolPlacer` of the settlement and world view.
+`ImprovedLineMultiTool` wraps it and is swapped into the `ToolPlacer` of the settlement view, the world view, the world map editor and the world generator.
 While the line tool is dragged, it replaces the painted area with the Bresenham line, everything else is passed through to the vanilla tool.
 
 The class is in the games `view.tool` package to be able to access its package-private types.
