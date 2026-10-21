@@ -1,7 +1,10 @@
 # Improved Line Tool
 
+![Vanilla line tool vs. Improved Line Tool](workshop/improved-line-tool-drake-meme-templage.png)
+
 The line tool in the build menus (roads, walls, floors, ...) only draws lines in 45° and 90° angles.
 This mod lets it draw straight lines in any angle, using [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm).
+It works in the settlement as well as on the world map, including the world map editor and the world generator.
 
 * Drag with the line tool as usual, the line goes straight from the start tile to the mouse
 * Hold **left ctrl** (the games MOD key) while dragging to get the vanilla line
