@@ -2,9 +2,9 @@
 
 My mods for [Songs of Syx](https://store.steampowered.com/app/1162750/Songs_of_Syx/).
 
-| Mod | Description |
-|-----|-------------|
-| [Improved Line Tool](improved-line-tool) | The line tool draws lines in any angle instead of only 45° and 90°. |
+| Mod | Description | Steam Workshop |
+|-----|-------------|----------------|
+| [Improved Line Tool](improved-line-tool) | The line tool draws lines in any angle instead of only 45° and 90°. | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3824020669) |
 
 ## Building
 

@@ -6,6 +6,8 @@ The line tool in the build menus (roads, walls, floors, ...) only draws lines in
 This mod lets it draw straight lines in any angle, using [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm).
 It works in the settlement as well as on the world map, including the world map editor and the world generator.
 
+Get it on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3824020669).
+
 * Drag with the line tool as usual, the line goes straight from the start tile to the mouse
 * Hold **left ctrl** (the games MOD key) while dragging to get the vanilla line
 * The line thickness (+ / - or ctrl + mouse wheel) works as before
