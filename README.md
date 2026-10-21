@@ -50,3 +50,5 @@ The game version the mods are built against is set via `game.version.major` and 
 
 The build setup is based on the [Songs of Syx mod template](https://github.com/4rg0n/songs-of-syx-mod-example) by 4rg0n,
 which also has a lot of general modding documentation.
+
+The build setup and the mods are implemented with the support of [Claude Code](https://claude.com/claude-code).
